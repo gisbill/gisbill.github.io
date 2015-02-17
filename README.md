@@ -1,6 +1,6 @@
 # gisbill.github.io
 
-Viewed via [gisbill.github.io](gisbill.github.io)
+Viewed via [gisbill.github.io](http://gisbill.github.io)
 
 
 Git tips:
