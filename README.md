@@ -15,3 +15,5 @@ Create local repo: git clone /path/to/repository
 
 Update local repo: cd into local repository and: git pull origin master
 
+
+Use atom text editor: cmd-shift-P search for Welcome
